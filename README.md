@@ -5,10 +5,7 @@ Programming, problem-solving, and people fuel everything I do. I am a connector,
 
 Ever since I wrote my first line of code, I have been fascinated using technology to solve real world problems. Software development has allowed me to fuse creativity and logic -- taking a fresh approaches and being able to measure its success. I am a critical thinker and pride myself in my ability to anticipate long-term challenges and trends, understanding implications of decisions, and translating ideas and concepts into practical applications.
 
-## Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karsonkalt&layout=compact)](https://github.com/karsonkalt/github-readme-stats)
-
-### Languages/Libraries/DSLs
+## Languages/Libraries/DSLs
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
@@ -53,16 +50,8 @@ A plant care tracking application equipped with ability to see when plants need 
 - Designed controller actions that respond to query parameters, allowing users to search, sort, and filter resources
 - Utilized rails partials across the application to ensure DRY code and build for future scalability
 
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Python
+- TypeScript
+- Data Structures/Algo
+- Sass
