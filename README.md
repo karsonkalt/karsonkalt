@@ -1,8 +1,13 @@
 # Hi, I'm Karson 👋
-![http://www.twitter.com/karsonkalt](https://img.shields.io/twitter/follow/karsonkalt?style=social) ![mailto:kars.kalt@gmail.com](https://img.shields.io/badge/email-kars.kalt%40gmail.com-blue) 
+[![Twitter](https://img.shields.io/twitter/follow/karsonkalt?style=social)](http://www.twitter.com/karsonkalt) [![email](https://img.shields.io/badge/email-kars.kalt%40gmail.com-blue)](mailto:kars.kalt@gmail.com) [![dev.to](https://img.shields.io/badge/blog-dev.to%2Fkarsonkalt-blue)](http://www.dev.to/karsonkalt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-kaltkarson-blue)](https://www.linkedin.com/in/kaltkarson/)
+
 Programming, problem-solving, and people fuel everything I do. I am a connector, a relationship builder, and a collaborator that leverages this strength to gain the buy-in of key stakeholders and bring teams into alignment through the project management lifecycle. My biggest strength is my ability to create a feeling of energy, excitement, and personal investment that inspires others to excel.
 
 Ever since I wrote my first line of code, I have been fascinated using technology to solve real world problems. Software development has allowed me to fuse creativity and logic -- taking a fresh approaches and being able to measure its success. I am a critical thinker and pride myself in my ability to anticipate long-term challenges and trends, understanding implications of decisions, and translating ideas and concepts into practical applications.
+
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Projects
 **OnRotation** - Front End Repo | Back End Repo | Blog Post | Demo
