@@ -6,6 +6,10 @@ Programming, problem-solving, and people fuel everything I do. I am a connector,
 
 Ever since I wrote my first line of code, I have been fascinated using technology to solve real world problems. Software development has allowed me to fuse creativity and logic -- taking a fresh approaches and being able to measure its success. I am a critical thinker and pride myself in my ability to anticipate long-term challenges and trends, understanding implications of decisions, and translating ideas and concepts into practical applications.
 
+## GitHub Stats
+![karsonkalt's GitHub stats](https://github-readme-stats.vercel.app/api?username=karsonkalt&show_icons=true)
+![karsonkalt's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karsonkalt&langs_count=8&layout=compact)
+
 ## Languages/Libraries/DSLs
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -17,8 +21,6 @@ Ever since I wrote my first line of code, I have been fascinated using technolog
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karsonkalt&layout=compact)](https://github.com/karsonkalt/github-readme-stats)
 
 ## Design Tools
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
