@@ -10,7 +10,7 @@ Ever since I wrote my first line of code, I have been fascinated using technolog
 ![karsonkalt's GitHub stats](https://github-readme-stats.vercel.app/api?username=karsonkalt&show_icons=true)
 ![karsonkalt's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karsonkalt&langs_count=8&layout=compact)
 
-## Languages/Libraries/DSLs
+## Tech Stack
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
@@ -22,7 +22,7 @@ Ever since I wrote my first line of code, I have been fascinated using technolog
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## Design Tools
+## Design Stack
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
