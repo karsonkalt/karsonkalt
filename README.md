@@ -31,7 +31,7 @@ Ever since I wrote my first line of code, I have been fascinated using technolog
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Understanding `this` in JavaScript](https://dev.to/karsonkalt/understanding-this-in-javascript-oe2)
-- [What is a "Hash" and How to Build one from Scratch in Ruby](https://dev.to/karsonkalt/what-is-a-hash-and-how-to-build-one-from-scratch-in-ruby-16kp)
+- [What is a &quot;Hash&quot; and How to Build one from Scratch in Ruby](https://dev.to/karsonkalt/what-is-a-hash-and-how-to-build-one-from-scratch-in-ruby-16kp)
 - [Using Query Parameters in Rails Controllers](https://dev.to/karsonkalt/using-query-parameters-in-rails-controllers-35l6)
 - [Putting together React, Rails, and a whole bunch of packages to build a SPA web app](https://dev.to/karsonkalt/putting-together-react-rails-and-a-whole-bunch-of-packages-to-build-a-spa-web-app-d41)
 - [Building a Turn-based Game Using JS and Rails](https://dev.to/karsonkalt/building-a-turn-based-game-using-js-and-rails-1ni1)
