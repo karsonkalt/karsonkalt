@@ -19,7 +19,6 @@ Ever since I wrote my first line of code, I have been fascinated using technolog
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Design Stack
@@ -27,6 +26,10 @@ Ever since I wrote my first line of code, I have been fascinated using technolog
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## Currently Learning
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -58,9 +61,3 @@ A plant care tracking application equipped with ability to see when plants need 
 - Authenticated and stored user passwords securely using the bcrypt hashing algorithm
 - Designed controller actions that respond to query parameters, allowing users to search, sort, and filter resources
 - Utilized rails partials across the application to ensure DRY code and build for future scalability
-
-## Currently Learning
-- Python
-- TypeScript
-- Data Structures/Algo
-- Sass
