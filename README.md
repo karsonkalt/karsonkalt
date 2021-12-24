@@ -35,7 +35,7 @@ Ever since I wrote my first line of code, I have been fascinated using technolog
 <!-- BLOG-POST-LIST:START -->
 - [Understanding JavaScript Promises and Promise Chaining in ES6](https://dev.to/karsonkalt/understanding-javascript-promises-and-promise-chaining-in-es6-o9)
 - [How to Get In the Recursive Mindset](https://dev.to/karsonkalt/how-to-get-in-the-recursive-mindset-1lnk)
-- [Building efficient algorithms using memoization and closures in JavaScript](https://dev.to/karsonkalt/building-efficient-algorithms-using-memoization-and-closures-in-javascript-5pj)
+- [Building Efficient Algorithms Using Memoization and Closures in Javascript](https://dev.to/karsonkalt/building-efficient-algorithms-using-memoization-and-closures-in-javascript-5pj)
 - [Understanding `this` in JavaScript](https://dev.to/karsonkalt/understanding-this-in-javascript-oe2)
 - [What is a &quot;Hash&quot; and How to Build one from Scratch in Ruby](https://dev.to/karsonkalt/what-is-a-hash-and-how-to-build-one-from-scratch-in-ruby-16kp)
 <!-- BLOG-POST-LIST:END -->
