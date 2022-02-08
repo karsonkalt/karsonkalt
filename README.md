@@ -2,9 +2,7 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/karsonkalt?style=social)](http://www.twitter.com/karsonkalt) [![email](https://img.shields.io/badge/email-kars.kalt%40gmail.com-blue)](mailto:kars.kalt@gmail.com) [![dev.to](https://img.shields.io/badge/blog-dev.to%2Fkarsonkalt-blue)](http://www.dev.to/karsonkalt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-kaltkarson-blue)](https://www.linkedin.com/in/kaltkarson/)
 
-Programming, problem-solving, and people fuel everything I do. I am a connector, a relationship builder, and a collaborator that leverages this strength to gain the buy-in of key stakeholders and bring teams into alignment through the project management lifecycle. My biggest strength is my ability to create a feeling of energy, excitement, and personal investment that inspires others to excel.
-
-Ever since I wrote my first line of code, I have been fascinated using technology to solve real world problems. Software development has allowed me to fuse creativity and logic -- taking a fresh approaches and being able to measure its success. I am a critical thinker and pride myself in my ability to anticipate long-term challenges and trends, understanding implications of decisions, and translating ideas and concepts into practical applications.
+I'm a full-stack dev with a passion for the front end. People fuel everything I do and usually describe myself as a connector and relationship builder.
 
 ## GitHub Stats
 ![karsonkalt's GitHub stats](https://github-readme-stats.vercel.app/api?username=karsonkalt&show_icons=true)
@@ -46,21 +44,19 @@ Ever since I wrote my first line of code, I have been fascinated using technolog
 <!-- BLOG-POST-LIST:END -->
 
 ## Projects
-🎵 **OnRotation** - [Front End Repo](https://github.com/karsonkalt/onrotation_react) | [Back End Repo](https://github.com/karsonkalt/onrotation_server) | [Blog](https://dev.to/karsonkalt/putting-together-react-rails-and-a-whole-bunch-of-packages-to-build-a-spa-web-app-d41) | [Demo](https://youtu.be/Gy2l3J5C6IQ)
+🎵 **OnRotation** - [Blog](https://dev.to/karsonkalt/putting-together-react-rails-and-a-whole-bunch-of-packages-to-build-a-spa-web-app-d41)
 
 SPA for fans of electronic music to watch DJ streams, collaborate with other users to identify songs, and receive notifications when resources have been updated by another user
 - Implemented ActiveModel::Serializer to serialize deeply nested associations
 - Designed model validations and db constraints to protect against race conditions
 - Utilized Redux and Thunk middleware on top of React for asynchronous JSON retrieval from a RESTful Rails API
 
-🕹 **GamePage** - [Back End Repo](gamepage_back_end) | [Front End Repo](https://github.com/karsonkalt/gamepage_front_end) | [Demo](https://youtu.be/-q0dtMVjhp0)
-
+🕹 **GamePage**
 A player-vs-player web app of the classic board game Othello (Reversi) with a leaderboard and event tracking system
 - Accelerated backend run time with eager loading where appropriate to eliminate N+1 queries
 - Engineered front end using JavaScript and employing a mobile-first approach to responsive web design with CSS breakpoints and media queries
 
-🌱 **Houseplant Helper** - [Repo](https://github.com/karsonkalt/houseplant_helper) | [Blog](https://dev.to/karsonkalt/building-a-web-app-with-rails-1kmd) | [Demo](https://youtu.be/ZGGPJ0oJ5Rs)
-
+🌱 **Houseplant Helper** - [Blog](https://dev.to/karsonkalt/building-a-web-app-with-rails-1kmd)
 A plant care tracking application equipped with ability to see when plants need to be watered, keep notes on plant health, and receive tips on plant care
 - Incorporated third party authentication using OAuth to allow users to register or login through Google
 - Authenticated and stored user passwords securely using the bcrypt hashing algorithm
