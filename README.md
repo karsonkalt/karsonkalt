@@ -44,7 +44,7 @@ I'm a full-stack dev with a passion for the front end. People fuel everything I 
 <!-- BLOG-POST-LIST:END -->
 
 ## Projects
-🎵 **OnRotation**  SPA for fans of electronic music to watch DJ streams, collaborate with other users to identify songs, and receive notifications when resources have been updated by another user -[Blog](https://dev.to/karsonkalt/putting-together-react-rails-and-a-whole-bunch-of-packages-to-build-a-spa-web-app-d41)
+🎵 **OnRotation**  SPA for fans of electronic music to watch DJ streams, collaborate with other users to identify songs, and receive notifications when resources have been updated by another user - [Blog](https://dev.to/karsonkalt/putting-together-react-rails-and-a-whole-bunch-of-packages-to-build-a-spa-web-app-d41)
 - Implemented ActiveModel::Serializer to serialize deeply nested associations
 - Designed model validations and db constraints to protect against race conditions
 - Utilized Redux and Thunk middleware on top of React for asynchronous JSON retrieval from a RESTful Rails API
