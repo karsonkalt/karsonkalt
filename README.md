@@ -2,7 +2,7 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/karsonkalt?style=social)](http://www.twitter.com/karsonkalt) [![email](https://img.shields.io/badge/email-kars.kalt%40gmail.com-blue)](mailto:kars.kalt@gmail.com) [![dev.to](https://img.shields.io/badge/blog-dev.to%2Fkarsonkalt-blue)](http://www.dev.to/karsonkalt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-kaltkarson-blue)](https://www.linkedin.com/in/kaltkarson/)
 
-I'm a full-stack dev specializing in JS, React, and Rails. I am a people-first collaborator that balances both creativity with logic to solve problems. I love meeting new people and collaborating -- so feel free to say hi!
+I'm a full-stack dev specializing in JS, React, and Rails. I love meeting new people and collaborating -- so feel free to say hi!
 
 ## GitHub Stats
 ![karsonkalt's GitHub stats](https://github-readme-stats.vercel.app/api?username=karsonkalt&show_icons=true)
