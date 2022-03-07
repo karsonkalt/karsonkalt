@@ -4,10 +4,6 @@
 
 I'm a full-stack dev specializing in JS, React, and Rails. I love meeting new people and collaborating -- so feel free to say hi!
 
-## GitHub Stats
-![karsonkalt's GitHub stats](https://github-readme-stats.vercel.app/api?username=karsonkalt&show_icons=true)
-![karsonkalt's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karsonkalt&langs_count=8&layout=compact)
-
 ## Tech Stack
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
