@@ -2,8 +2,6 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/karsonkalt?style=social)](http://www.twitter.com/karsonkalt) [![email](https://img.shields.io/badge/email-kars.kalt%40gmail.com-blue)](mailto:kars.kalt@gmail.com) [![dev.to](https://img.shields.io/badge/blog-dev.to%2Fkarsonkalt-blue)](http://www.dev.to/karsonkalt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-kaltkarson-blue)](https://www.linkedin.com/in/kaltkarson/)
 
-I'm a full-stack dev specializing in JS, React, and Rails. I love meeting new people and collaborating -- so feel free to say hi!
-
 ## Tech Stack
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
