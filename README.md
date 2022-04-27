@@ -30,19 +30,3 @@
 - [Building Efficient Algorithms Using Memoization and Closures in Javascript](https://dev.to/karsonkalt/building-efficient-algorithms-using-memoization-and-closures-in-javascript-5pj)
 - [Understanding `this` in JavaScript](https://dev.to/karsonkalt/understanding-this-in-javascript-oe2)
 <!-- BLOG-POST-LIST:END -->
-
-## Projects
-🎵 **OnRotation**  SPA for fans of electronic music to watch DJ streams, collaborate with other users to identify songs, and receive notifications when resources have been updated by another user - [Blog](https://dev.to/karsonkalt/putting-together-react-rails-and-a-whole-bunch-of-packages-to-build-a-spa-web-app-d41)
-- Implemented ActiveModel::Serializer to serialize deeply nested associations
-- Designed model validations and db constraints to protect against race conditions
-- Utilized Redux and Thunk middleware on top of React for asynchronous JSON retrieval from a RESTful Rails API
-
-🕹 **GamePage** A player-vs-player web app of the classic board game Othello (Reversi) with a leaderboard and event tracking system
-- Accelerated backend run time with eager loading where appropriate to eliminate N+1 queries
-- Engineered front end using JavaScript and employing a mobile-first approach to responsive web design with CSS breakpoints and media queries
-
-🌱 **Houseplant Helper** A plant care tracking application equipped with ability to see when plants need to be watered, keep notes on plant health, and receive tips on plant care - [Blog](https://dev.to/karsonkalt/building-a-web-app-with-rails-1kmd)
-- Incorporated third party authentication using OAuth to allow users to register or login through Google
-- Authenticated and stored user passwords securely using the bcrypt hashing algorithm
-- Designed controller actions that respond to query parameters, allowing users to search, sort, and filter resources
-- Utilized rails partials across the application to ensure DRY code and build for future scalability
