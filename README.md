@@ -3,14 +3,14 @@
 [![Twitter](https://img.shields.io/twitter/follow/karsonkalt?style=social)](http://www.twitter.com/karsonkalt) [![email](https://img.shields.io/badge/email-kars.kalt%40gmail.com-blue)](mailto:kars.kalt@gmail.com) [![dev.to](https://img.shields.io/badge/blog-dev.to%2Fkarsonkalt-blue)](http://www.dev.to/karsonkalt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-kaltkarson-blue)](https://www.linkedin.com/in/kaltkarson/)
 
 ## Stuff I Like
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
