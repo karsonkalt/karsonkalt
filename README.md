@@ -1,6 +1,6 @@
 # Hi, I'm Karson 👋🏻
 
-[![Twitter](https://img.shields.io/twitter/follow/karsonkalt?style=social)](http://www.twitter.com/karsonkalt) [![email](https://img.shields.io/badge/email-kars.kalt%40gmail.com-blue)](mailto:kars.kalt@gmail.com) [![dev.to](https://img.shields.io/badge/blog-dev.to%2Fkarsonkalt-blue)](http://www.dev.to/karsonkalt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-kaltkarson-blue)](https://www.linkedin.com/in/kaltkarson/)
+[![email](https://img.shields.io/badge/email-kars.kalt%40gmail.com-blue)](mailto:kars.kalt@gmail.com) [![dev.to](https://img.shields.io/badge/blog-dev.to%2Fkarsonkalt-blue)](http://www.dev.to/karsonkalt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-kaltkarson-blue)](https://www.linkedin.com/in/kaltkarson/)
 
 ## Stuff I Use
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
