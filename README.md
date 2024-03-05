@@ -2,7 +2,7 @@
 
 [![email](https://img.shields.io/badge/email-kars.kalt%40gmail.com-blue)](mailto:kars.kalt@gmail.com) [![blog](https://img.shields.io/badge/blog-karsonkalt.github.io-blue)](http://karsonkalt.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-kaltkarson-blue)](https://www.linkedin.com/in/kaltkarson/)
 
-I'm a fullstack engineer with a passion for building apps and interfaces that prioritize human experience. I'm a people person at heart and love working across design, product, and engineering to get to the heart of the product needs.
+I'm a fullstack engineer with a passion for building apps and interfaces that prioritize human experience. I'm a people person and love working with people across across design, product, and engineering to get to the heart of the product needs.
 
 ## Stuff I Use
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
