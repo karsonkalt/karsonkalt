@@ -25,12 +25,3 @@ I'm a fullstack engineer with a passion for building apps and interfaces that pr
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-
-## Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Functional Programming in Ruby with Blocks and Procs](https://dev.to/karsonkalt/functional-programming-in-ruby-with-blocks-and-procs-362g)
-- [Understanding JavaScript Promises and Promise Chaining in ES6](https://dev.to/karsonkalt/understanding-javascript-promises-and-promise-chaining-in-es6-o9)
-- [How to Get In the Recursive Mindset](https://dev.to/karsonkalt/how-to-get-in-the-recursive-mindset-1lnk)
-- [Building Efficient Algorithms Using Memoization and Closures in Javascript](https://dev.to/karsonkalt/building-efficient-algorithms-using-memoization-and-closures-in-javascript-5pj)
-- [Understanding `this` in JavaScript](https://dev.to/karsonkalt/understanding-this-in-javascript-oe2)
-<!-- BLOG-POST-LIST:END -->
