@@ -1,6 +1,6 @@
 # Hi, I'm Karson 👋🏻
 
-[![email](https://img.shields.io/badge/email-kars.kalt%40gmail.com-blue)](mailto:kars.kalt@gmail.com) [![blog](https://img.shields.io/badge/karsonkalt.dev-blue)](http://www.karsonkalt.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-kaltkarson-blue)](https://www.linkedin.com/in/kaltkarson/)
+[![email](https://img.shields.io/badge/email-kars.kalt%40gmail.com-blue)](mailto:kars.kalt@gmail.com) [![blog](https://img.shields.io/badge/blog-karsonkalt.dev-blue)](http://www.karsonkalt.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-kaltkarson-blue)](https://www.linkedin.com/in/kaltkarson/)
 
 I'm a fullstack engineer with a passion for building apps and interfaces that prioritize human experience. I'm a people person and love working with people across across design, product, and engineering to get to the heart of the product needs.
 
